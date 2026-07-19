@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AIArchitect.Retrieval/AIArchitect.Retrieval.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AIArchitect.Retrieval.Tests/AIArchitect.Retrieval.Tests.csproj" />
+  </Folder>
+</Solution>
